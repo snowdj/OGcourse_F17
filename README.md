@@ -57,7 +57,7 @@ Midterm      |    50  |  25% |
 Final Exam   |    50  |  25% |
 **Total points** | **200** | **100%** |
 
-* **Homework:** I will assign 7 problem sets throughout the term, and I will drop your one lowest problem set score.
+* **Homework:** I will assign 8 problem sets throughout the term, and I will drop your one lowest problem set score.
 	* You must write and submit your own computer code, although I encourage you to collaborate with your fellow students. I **DO NOT** want to see a bunch of copies of identical code. I **DO** want to see each of you learning how to code these problems so that you could do it on your own.
 	* Problem set solutions, both written and code portions, will be turned in via a pull request from your private [GitHub.com](https://git-scm.com/) repository which is a fork of the class master repository on my account. (You will need to set up a GitHub account if you do not already have one.)
 	* Problem sets will be due on the day listed in the Daily Course Outline section of this syllabus (see below) unless otherwise specified. Late homework will not be graded.
@@ -72,31 +72,31 @@ Final Exam   |    50  |  25% |
 | Sep. 25 | M | Python, Git, OG Models        | Ch. 1, [tutorials](https://github.com/rickecon/OGcourse_F17/tree/master/Tutorials)   |      |
 |         |   |                               | Weil (2008) |      |
 |         |   |                               | N&S (2007)  |      |
-| Sep. 27 | W | 3-period-lived model: theory  | Ch. 5       | PS 1 |
+| Sep. 27 | W | 3-period-lived model: theory  | Ch. 5       | [PS 1](https://github.com/rickecon/OGcourse_F17/blob/master/ProblemSets/PS1/PS1.pdf) |
 | Oct.  2 | M | 3-period-lived model: theory  | Ch. 5       |      |
 | Oct.  4 | W | 3-period-lived model: computation | Ch. 5   |      |
-| Oct. 9 | M | *S*-period-lived model        | Ch. 6       | PS 2 |
-| Oct. 11 | W | Endogenous labor supply       | Ch. 7       |      |
+| Oct. 9 | M | *S*-period-lived model        | Ch. 6       |      |
+| Oct. 11 | W | Endogenous labor supply       | Ch. 7       | [PS 2](https://github.com/rickecon/OGcourse_F17/blob/master/ProblemSets/PS2/PS2.pdf) |
 |         |    |                               | P (2016)    |      |
 |         |    |                               | E&P (2016)  |      |
-| Oct. 16 | M | Endogenous labor supply       | Ch. 7       | PS 3 |
+| Oct. 16 | M | Endogenous labor supply       | Ch. 7       | [PS 3](https://github.com/rickecon/OGcourse_F17/blob/master/ProblemSets/PS3/PS3.pdf) |
 | Oct. 18 | W | Endogenous labor supply       | Ch. 7       |      |
 | Oct. 23 | M | Endogenous labor supply       | Ch. 7       |      |
-| **Oct. 25** | **W** | **Midterm 1 (Chs. 1-7)** |          | PS 4 |
-| Oct. 30 |  M | Bequests: simple              | Ch. 10      |      |
+| **Oct. 25** | **W** | **Midterm 1 (Chs. 1-7)** |          | [PS 4](https://github.com/rickecon/OGcourse_F17/blob/master/ProblemSets/PS4/PS4.pdf) |
+| Oct. 30 |  M | Bequests: simple              | Ch. 11      |      |
 |         |    |                               | D (2015)    |      |
 |         |    |                               | DEMPRS (2016) |    |
-| Nov. 1 | W | Bequests: calibrated from SCF | Ch. 10      |      |
-| Nov.  6 | M  | Population demographics       |  Ch. 9      | PS5  |
+| Nov. 1 | W | Bequests: simple                | Ch. 11 |      |
+| Nov.  6 | M  | Bequests: calibrated from SCF |  Ch. 11 | [PS5](https://github.com/rickecon/OGcourse_F17/blob/master/ProblemSets/PS5/PS5.pdf)  |
 |         |    |                               | N (2015)    |      |
-| Nov. 8 | W | Population demographics       |  Ch. 9      |      |
-| Nov. 13 | M | Population demographics       |  Ch. 9      |      |
-| Nov. 15 | W | Tax functions from microsimulation |  Ch. 12 |     |
+| Nov. 8 | W | Population demographics       | Ch. 10 | [PS6](https://github.com/rickecon/OGcourse_F17/blob/master/ProblemSets/PS6/PS6.pdf) |
+| Nov. 13 | M | Population demographics       | Ch. 10 |      |
+| Nov. 15 | W | Population demographics |  Ch. 10 | [PS7](https://github.com/rickecon/OGcourse_F17/blob/master/ProblemSets/PS7/PS7.pdf) |
 |         |    |                               | DEP (2016)  |      |
-| Nov. 20 | M | Tax functions from microsimulation | Ch. 12 | PS6  |
-| Nov. 22 | W | Tax functions from microsimulation | Ch. 12 |      |
-| Nov. 27 | M | Multiple industry model | Ch. 17   | PS 7 |
-| Nov. 29 | W | Multiple industry model | Ch. 17   |      |
+| Nov. 20 | M | Tax functions in OG model | Ch. 14 |   |
+| Nov. 22 | W | Tax functions from microsimulation | Ch. 14 | [PS 8](https://github.com/rickecon/OGcourse_F17/blob/master/ProblemSets/PS8/PS8.pdf) |
+| Nov. 27 | M | Tax functions from microsimulation | Ch. 14 |      |
+| Nov. 29 | W | Multiple industry model | Ch. 17   | [PS9](https://github.com/rickecon/OGcourse_F17/blob/master/ProblemSets/PS9/PS9.pdf)  |
 |         |    | *Exam preparation (reading) days, Nov. 30-Dec. 1* |  |   |
 | **Dec. 6** | **W** | **Final Exam (comprehensive)** |      |      |
 |         |     | **1:30-3:30p.m. in Swift 208** |           |      |
@@ -109,6 +109,7 @@ Final Exam   |    50  |  25% |
 * DeBacker, Jason, Richard W. Evans, and Kerk L. Phillips, "[Integrating Microsimulation Tax Functions into a DGE Macroeconomic Model: A Canonical Example](https://sites.google.com/site/rickecon/DEP_10pct.pdf)," mimeo (August 2016).
 * Evans, Richard W. and Jason DeBacker, *Overlapping Generations Models for Policy Analysis: Theory and Computation*, unpublished draft (2017).
 * Evans, Richard W. and Kerk L. Phillips, "[Advantages of an Ellipse when Modeling Leisure Utility](https://sites.google.com/site/rickecon/Elliptical.pdf)," *Computational Economics*, (forthcoming, 2016).
+* Furman, Jason, "Can Tax Reform Get Us to 3 Percent Growth?" [[Slides](https://github.com/rickecon/OGcourse_F17/blob/master/Slides/furman20171103ppt.pdf)], Talk at New York Association for Business Economics (November 3, 2017).
 * Nishiyama, Shinichi, "Fiscal Policy Effects in a Heterogeneous-agent OLG economy with an Aging Population," *Journal of Economic Dynamics & Control*, 61, pp. 114-132 (December 2015).
 * Nishiyama, Shinichi and Kent Smetters, "Does Social Security Privatization Produce Efficiency Gains?," *Quarterly Journal of Economics*, 122:4, pp. 1677-1719 (November 2007).
 * Peterman, William, "Reconciling Micro and Macro Estimates of the Frisch Labor Supply Elasticity," *Economic Inquiry*, 54:1, pp. 100-120 (January 2016).
